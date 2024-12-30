@@ -1,0 +1,58 @@
+<?php
+
+    // // task 1
+    // $kg = readline("Enter weight:  ");
+    
+    // if($kg < 1){
+    //     $sum = $kg * 10;
+    //     echo "kg price $sum $";
+    // }else if ($kg < 5){
+    //     $sum = $kg * 20;
+    //     echo "kg price $sum $";
+    // }else{
+    //     $sum = $kg * 30;
+    //     echo "kg price $sum $";
+    // }
+    
+    // task 2 
+    
+    // $num = readline("Enter number:  ");
+    
+    // if($num == 0 && $num === 2 && $num === 4 && $num === 6 && $num === 8 ){
+    //     echo "number is even";
+    // }else{
+    //     echo "number is not even!";
+    // }
+    
+    // task 3
+    
+    // $sum = readline("Введите доход!");
+    
+    // if($sum > 1000){
+    //     $res = $sum % 5;
+    //     echo "Бонус $res";
+    // }else if($sum >= 5000){
+    //     $res = $sum % 10;
+    //     echo "Бонус $res";
+    // }else{
+    //     $res = $sum % 15;
+    //     echo "Бонус $res";
+    // }
+    
+    // task 5 
+    
+    // $ball = readline("Enter ball:  ");
+    
+    
+    // if($ball >= 90){
+    //     echo "A";
+    // }else if ($ball >= 80){
+    //     echo "B";
+    // }else if ($ball >= 70){
+    //     echo "C";
+    // }else if ($ball >= 60){
+    //     echo "D";
+    // }else{
+    //     echo "F";
+    // }
+?>

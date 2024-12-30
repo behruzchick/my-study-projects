@@ -1,0 +1,42 @@
+<?php
+    // task 6
+    // function test1 ($p1){
+    //     return ($p1 * 9/5) + 32;
+    // }
+    
+    // print test1(1);
+    
+    // task 7
+    
+    // function test2($p1){
+    //     return array_sum($p1);
+    // }
+    
+    // print test2([2,3,4]);
+    
+    
+    // task 8
+    
+    // function test3($p,$s){
+    //     return $p * $s;
+    // }
+    
+    // print test3(300,200);
+    
+    // task 9 
+    
+    // function test4($p1){
+    //     if($p1 % 2 !== 0 || $p1 % 3 !== 0) return "Prime number";
+    //     return "is just number";
+    // }
+    
+    // print test4(3);
+    
+    // task 10
+    
+    // function test5($p1){
+    //     return strrev($p1);
+    // }
+    
+    // print test5("ok");
+?>

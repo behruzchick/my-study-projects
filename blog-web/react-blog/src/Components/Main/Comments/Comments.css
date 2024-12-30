@@ -1,0 +1,30 @@
+.comment-wrappe{
+    display: flex;
+}
+
+.textarea{
+    width: 300px;
+    margin-top: 15px;
+}
+
+.post-img-f{
+    width: 400px;
+    height: auto;
+}
+
+.image-list{
+    height: 400px;
+    width: 1000px;
+}
+
+.image-list::-webkit-scrollbar{
+    opacity: 0;
+}
+.image-list::-webkit-scrollbar-thumb{
+    opacity: 0;
+    background-color: black;
+    border-radius: 10px;
+}
+.image-list::-webkit-scrollbar-track{
+    opacity: 0;
+}

@@ -1,0 +1,73 @@
+<?php
+
+// task4
+//     $num1 = readline("Enter first number");
+    
+//   $num2 = readline("Enter second number");
+   
+//   $res = $num1 + $num2;
+   
+//   echo $res;
+
+// task 5
+
+    // $param1 = readline("Enter first param");
+    // $param2 = readline("Enter second param");
+    
+    // $res = strrev($param1.$param2);
+    
+    // echo $res
+    
+    
+    // task 6
+    // $pi = 3.14;    
+    // $radius = readline("Enter radius");
+    
+    // $b = $pi * ($radius * $radius);
+    
+    // $res = 2 * $pi * $radius;
+    
+    // echo $res
+    
+    // task 7
+    
+    // $num = readline("Enter number");
+    
+    // if($num <= 0 ){
+    //     echo "False";
+    // }else{
+    //     echo "True";
+    // }
+    
+    
+    //task 8
+    
+    // $num1 = readline("Enter first number");
+    // $num2 = readline("Enter second number");
+    // $num3 = readline("Enter another number");
+    
+    // $res = 3 / ($num1 + $num2 + $num3);
+    
+    // echo $res;
+    
+    
+    // task 9
+    // $minutes = readline("Enter minutes");
+    
+    // $hours = floor($minutes / 60);
+    
+    // $min = $minutes % 60;
+    
+    // echo "Hours: $hours  Minutes: $min";
+
+    // task 10
+    // $year = readline("Enter year");
+    
+    
+    // if (($year % 4 == 0 && $year % 100 != 0) || $year % 400 == 0) {
+    //     echo "$year год является високосным.\n";
+    // } else {
+    //     echo "$year год не является високосным.\n";
+    // }
+    
+?>

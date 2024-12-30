@@ -1,0 +1,32 @@
+.pokemon-card-wrappe{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.pokemom-card{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    border-radius: 10px;
+}
+.pokemon-card-image{
+    width: 300px;
+}
+
+.pokemon-card-poke-info-stats{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    gap: 15px;
+    flex-wrap: wrap;
+    height: 200px;
+}
+
+.poke-stat{
+    border: 1px solid rgb(238, 146, 25);
+    padding: 10px;
+    border-radius: 10px;
+}

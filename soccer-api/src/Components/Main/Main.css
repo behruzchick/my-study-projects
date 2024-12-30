@@ -1,0 +1,12 @@
+.btn{
+    padding: 30px;
+    width: 200px;
+    margin: 30px;
+    background-color: rgba(240, 248, 255, 0.313);
+}
+
+.search-input{
+    width: 100%;
+    padding:14px;
+    border-radius: 10px;
+}

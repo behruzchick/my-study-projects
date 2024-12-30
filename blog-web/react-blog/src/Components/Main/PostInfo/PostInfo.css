@@ -1,0 +1,32 @@
+.container{
+    display: flex;
+
+    width: 100%;
+}
+.post-data{
+   padding: 30px;
+}
+.other-posts-wrappe{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 30px;
+    width: 300px;
+    gap: 10px;
+}
+.other-post{
+    width: 300px;
+    cursor: pointer;
+}
+
+.post-data-header{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.box{
+    box-shadow: none;
+    background: none;
+}

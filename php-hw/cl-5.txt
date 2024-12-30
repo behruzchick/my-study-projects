@@ -1,0 +1,71 @@
+<?php
+    // task 1
+    // $num = readline("enter num:  ");
+    // $i = 0;
+    
+    // while($i < $num){
+    //     echo $i*2;
+    //     $i ++;
+    // }
+    
+    // task 2
+    
+    // $password = readline("Enter password:  ");
+    
+    // do{
+    //     if($password === "password123"){
+    //         echo "Success";
+    //     }else{
+    //         echo "Error\n";
+    //         // $password = readline("Enter password:  ");
+    //     }
+    // }while($password !== "password123")
+    
+    
+    // task 3
+    
+    // $num = (int)  readline("Enter number:  ");
+    
+    
+    // $faktorial = 1;
+    
+    
+    // for($i = 1; $i <= $num; $i++){
+    //     $faktorial *= $i;
+    // }
+    
+    //       echo $faktorial;
+    
+    
+    // task 4 
+    
+    // $num = rand(1 , 10);
+    
+    // echo $num
+    
+    // task 5
+    
+// $numbers = [];
+// $sum = 0;
+
+// while (true) {
+//     $input = readline("Enter number negative number to exit: ");
+//     $number = (float) $input;
+
+//     if ($number < 0) {
+//         break;
+//     }
+
+//     $numbers[] = $number;
+
+//     if ($number > 0) {
+//         $sum += $number;
+//     }
+// }
+
+// echo "positive numbers: " . $sum . "\n";
+    
+    
+    
+    
+?>

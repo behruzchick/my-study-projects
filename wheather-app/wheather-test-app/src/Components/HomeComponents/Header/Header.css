@@ -1,0 +1,22 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px;
+}
+
+.nav-brand a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.other-ct{
+    display: flex;
+    gap: 15px;
+}
+
+.other-ct span {
+    cursor: pointer;
+    color: #fff;
+    font-size: 20px;
+}
